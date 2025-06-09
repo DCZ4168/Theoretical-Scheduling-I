@@ -1,5 +1,5 @@
 # Theoretical-Scheduling-I
-First project of scheduling, article from 23th February 2025
+Project of my webpage uploaded on 23rd February 2025
 * Python file
 * Manual schedules
 
